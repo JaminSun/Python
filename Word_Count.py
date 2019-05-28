@@ -1,5 +1,5 @@
-word = 0
 msg = input("enter message:")
+word = 0
 i = 0
 while i<len(msg):
     if msg[i]==" ":
